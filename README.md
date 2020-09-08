@@ -1,5 +1,5 @@
 ## Default-credentials
-A Default Credential is a type of vulnerability that is most commonly found to affect the devices like modems, routers, digital cameras, and other devices having some pre-set (default) administrative credentials to access all configuration settings.
+A Default Credential vulnerability is a type of vulnerability that is most commonly found to affect the devices like modems, routers, digital cameras, and other devices having some pre-set (default) administrative credentials to access all configuration settings.
 
 ## Remediation
 Don't use with default password, use strong password. Once the service is deployed change the default credentials.
